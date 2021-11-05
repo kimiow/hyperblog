@@ -10,6 +10,8 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 
+Creado por el increible equipo de Platzi
+
 Y como un amable recordatorio **Este readme.md es un chiste**. Disenado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el  [**curso**](http:/https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica// "curso").
 
 
